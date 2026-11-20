@@ -1,0 +1,5 @@
+numpay
+pandas
+seaborn
+scikit-learn
+xgboost
